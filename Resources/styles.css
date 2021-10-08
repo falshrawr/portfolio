@@ -1,0 +1,237 @@
+
+   
+  h1 h2 {
+    color: hsl(130,60%,40%);
+    text-align: center;
+    padding: 15px;
+    margin-top: 20px;
+    font-family: 'Space Mono', Courier, monospace;
+    font: 'Trebuchet MS';
+  }
+
+  h2 {
+    font-size: 14px;
+  }
+  
+
+  h1 {
+    font-size: 18px;
+  }
+
+  h4 {
+    color: #ffffff;
+  }
+  
+  li {
+    color: black;
+    font-weight: 400;
+    font-size: 12px;
+    font-style: italic;
+    padding-right: 15px;
+  }
+  .navigation {
+    display: block;
+    padding: 8px;
+    background-color: hsla(170,60%,40%,0.9);
+    float: right;
+    padding-right: 5px;
+  }
+  .navigation a {
+    color: #ffffff;
+    text-decoration: none;
+    font-family: 'Space Mono', Courier, monospace;
+  }
+
+  .navigation a:hover {
+    text-decoration: underline;
+    font-weight: bold;
+  }
+   
+  
+body{
+ background-image: url('https://i.pinimg.com/originals/c4/07/1f/c4071f86d00c3ad0905df0bf2c64fb4a.jpg');
+}  
+
+#home {
+  color: hsl(130,60%,75%);
+  text-align: center;
+  padding: 15px;
+  margin-top: 20px;
+  font-family: 'Space Mono', Courier, monospace;
+  padding-top: 50px; 
+  font-weight: 700;
+  font-size: 38px;
+  border: 2px solid hsl(130, 60%, 40%)
+
+}
+
+.profile img{
+  border: 1px white solid;
+  border-radius: 5px;
+}
+
+.profile{
+  float: right;
+}
+
+.profile img:hover{
+  border: 2px #f1f1f1 solid;
+}
+
+#datascience{
+  background-color: hsl(145, 60%, 40%);
+  width: 50%;
+  font-family: 'Space Mono', Courier, monospace;
+  padding: 15px;
+  border-radius: 15px;
+  border: 1px solid hsl(140,60%,40%);
+  float: right;
+  margin: auto;
+
+}
+
+#creative{
+    background-color: hsl(145, 60%, 40%);
+    width: 50%;
+    font-family: 'Space Mono', Courier, monospace;
+    padding: 15px;
+    border-radius: 15px;
+    border: 1px solid hsl(140,60%,40%);
+    color: #ffffff;
+    float: left;
+    margin: auto;
+}
+
+#posts{
+    background-color: hsl(145, 60%, 40%);
+    width: 50%;
+    font-family: 'Space Mono', Courier, monospace;
+    padding: 15px;
+    border-radius: 15px;
+    border: 1px solid hsl(140,60%,40%);
+    float: right;
+    margin: auto;
+  }
+#posts, #creative a{
+  color: #ffffff;
+}
+
+#webapp {
+  background-color: hsl(150,60%,40%);
+    width: 50%;
+    font-family: 'Space Mono', Courier, monospace;
+    padding: 15px;
+    border-radius: 15px;
+    border: 1px solid hsl(150,60%,40%);
+    float: left;
+    margin: auto;
+}
+
+#instagram {
+  background-color: white;
+  font-family: 'Space Mono', Courier, monospace;
+  border-radius: 5px;
+  border: 1px solid white;
+  margin: auto;
+  padding: 5px;
+}
+
+
+#instagram img{
+ padding: 0px;
+ height: 32%;
+ width: 32%;
+
+}
+.link{ 
+  background-color: white;
+  border-radius: 15px;
+  border: 1px solid white;
+  padding: 10px;
+  text-decoration: none ;
+  margin: 5px auto;
+}
+
+#datascience li {
+    color: black;
+    padding-right: 15px;
+    font-size: 13px;
+}
+
+.link:hover{
+  text-decoration:underline;
+  background-color: hsl(150,90%,20%);
+  color: white;
+  border: 1px solid transparent;
+  cursor:pointer;
+}
+
+.esg:hover{
+  text-decoration: none;
+  cursor:pointer
+}
+
+.esg:visited{
+  color: #ffffff;
+}
+
+  .section1 p{
+    line-height: 1.4;
+    font-family: 'Space Mono', Courier, monospace;
+    color: #ffffff;
+  }
+
+  .section1 h1 h2 {
+    color: #ffffff;
+  }
+
+  #education {
+    background-color: hsl(150,60%,40%);
+      width: 50%;
+      font-family: 'Space Mono', Courier, monospace;
+      padding: 15px;
+      border-radius: 15px;
+      border: 1px solid hsl(150,60%,40%);
+      float: right;
+      margin: auto;
+  }
+
+  .contact {
+    color: white;
+    font-size: 14px;
+    background-color: hsl(160,60%,40%);
+    width: 50%;
+    text-align: center;
+    font-family: 'Space Mono', Courier, monospace;
+    padding: 15px;
+    border-radius: 15px;
+    border: 1px solid hsl(160,60%,40%);
+    margin: auto;
+ 
+  }
+  .contact a{
+    color: white;
+    text-decoration: underline;
+  }
+
+  .contact a:hover{
+    text-decoration: underline;
+    font-weight: bold;
+  }
+
+  .contact li{
+    color: white;
+  }
+
+  .deets {
+  padding: 40px 0px;
+  }
+
+  .deets h3{
+    padding: 10px;
+  }
+
+  #contactpage{
+    margin-top: 20px;
+  }
+
